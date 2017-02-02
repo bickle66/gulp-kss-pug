@@ -1,0 +1,34 @@
+{
+  "author": "Bryan Jones",
+  "dependencies": {
+    "gulp": "~3.5.2",
+    "gulp-less": "~1.2.1",
+    "gulp-util": "~2.2.14",
+    "handlebars": "~2.0.0-alpha.1",
+    "kss-pug": "~0.0.1",
+    "marked": "~0.3.1",
+    "through": "~2.3.4"
+  },
+  "description": "gulp-kss with kss-pug dependency",
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "dist": {
+    "shasum": "ae8d7de7fd03dca7ae119f2b81cc0a713ad96aef",
+    "tarball": "https://registry.npmjs.org/gulp-kss-pug/-/gulp-kss-pug-0.0.3.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "bickle66",
+      "email": "bryan.jones@enginedigital.com"
+    }
+  ],
+  "name": "gulp-kss-pug",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.5"
+}
